@@ -1,0 +1,70 @@
+header {
+	background-color: #de5255;
+	margin: 5px;
+	padding:5px;
+	position: relative;
+	
+}
+
+
+header > h3 {
+	color: white;
+	margin: 0px;
+	display: inline-flex;
+    padding: 50px;
+
+}
+
+	
+
+nav {
+	background-color: #868686;
+	padding: 0.2px;
+	margin: 5px;
+}
+
+
+a {
+    color: white ;
+    text-decoration: none;
+     
+}
+
+li {
+	display: inline;
+	padding: 10px
+}
+
+figure {
+    width: 40%;
+    display: inline-block;
+
+}
+
+.figure1 {
+	margin-left: 0px;
+}
+
+.figure2 {
+	margin-right: 0px;
+
+}
+
+.content {
+	padding: 1px;
+	margin: 5px;
+
+
+}
+
+
+
+footer {
+    text-align: center;
+  background-color: #de5255;
+  padding: 0.2px;
+  margin:5px;
+  color: white;
+
+}
+
